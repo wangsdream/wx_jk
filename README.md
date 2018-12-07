@@ -1,4 +1,4 @@
-#微信js api接口 demo
+# 微信js api接口 demo
 
 使用微信JS-SDK 
   1.查看公众号是否有使用JSSDK的权限 
